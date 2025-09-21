@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto é um agregador de links para usar como cartão de visitas online. Foi criado a partir de estudo pela Rocketseat, a fim de prática e desenvolvimento.
+O projeto é um agregador de links para usar como cartão de visitas online. Foi criado a partir de um curso feito pela Rocketseat, o Discover, a fim de prática e desenvolvimento.
 
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
@@ -41,6 +41,10 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 - Agregar vários links em uma página única
 - Visual simples e responsivo
 - Fácil personalização
+
+## 🎓 Certificado
+
+[Veja o certificado aqui](https://app.rocketseat.com.br/certificates/e3f273c6-6e19-443f-b31d-9b64992b286d)
 
 ## 📋 Licença
 
